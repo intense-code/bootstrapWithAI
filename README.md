@@ -27,12 +27,12 @@ By the end of this lesson, you will be able to:
 ## 📸 Screenshots
 
 ### Basic Version
-![Basic Version Screenshot](images/basic-version.png)
+![Basic Version Screenshot](images/enhanced-version.png)
 
 ---
 
 ### Enhanced Version
-![Enhanced Version Screenshot](images/enhanced-version.png)
+![Enhanced Version Screenshot](images/basic-version.png)
 
 ---
 
